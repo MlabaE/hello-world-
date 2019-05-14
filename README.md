@@ -1,2 +1,8 @@
 # hello-world-
-hello world code 
+#include <stdio.h>
+
+
+int main() {
+	println("Hello World");
+	return 0;
+}
